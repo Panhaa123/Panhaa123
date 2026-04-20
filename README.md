@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- 🔥 HEADER -->
-<h1 align="center">Hi 👋, I'm Sothearith</h1>
+<h1 align="center">Hi 👋, I'm PanhaZzz</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Laravel+%7C+Spring+Boot;Building+Scalable+Apps;Always+Learning+New+Things" />
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <!-- 👀 VISITOR COUNTER -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sothearith22&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Panhaa123&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -34,19 +34,14 @@ Here are some ideas to get you started:
 - 👯 Open to collaborate on **School Management System**
 - 🤝 Need help with **Frontend Development**
 - 💬 Ask me about **Backend & Mini Projects**
-- 📫 Email: **kim.sothearith2007@gmail.com**
+- 📫 Email: **kpanha499@gmail.com**
 
 ---
 
-## 🌐 Portfolio
-👉 https://portfolio-chi-sandy-61.vercel.app/
-
----
 
 ## 🤝 Connect with Me
 <p align="left">
-<a href="https://github.com/Sothearith22"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
-<a href="https://linkedin.com/in/rith-rith-a81910380"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+<a href="https://github.com/Panhaa123"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
 </p>
 
 ---
@@ -60,36 +55,36 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sothearith22&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Panhaa123&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sothearith22&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Panhaa123&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sothearith22&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panhaa123&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sothearith22&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Panhaa123&theme=tokyo-night" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sothearith22&theme=tokyonight&no-frame=true&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=Panhaa123&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sothearith22/Sothearith-Dev/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Panhaa123/Rathpanha-Dev/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
