@@ -77,14 +77,14 @@ Here are some ideas to get you started:
 
 ## 🏆 GitHub Trophies
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Panhaa123&theme=tokyonight&no-frame=true&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=Panhaa123&theme=tokyonight&no-frame=true&margin-w=10&cache_seconds=86400" />
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Panhaa123/Rathpanha-Dev/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/Panhaa123/Panhaa123/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
